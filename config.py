@@ -2,7 +2,7 @@
 
 bot = {
 
-    "token": "OTkyNzk3NjIyMDk0MDE2NjIy.Gllbrj.wjg73TDTe8R1jyoDJlMUuA1NubFSTKnbKJWBMY",
+    "token": "MTIwODc1Mjk3NDY2MzI2MjIxOA.GCU4It.kITlCmGqtzfCXLwZpWbbnOVR5H6Jy-lHKs-M1c",
 
     "prefix": "!",
 
